@@ -30,7 +30,7 @@ public class CalculatorTest {
 
 	@Test
 	public void testSub() {
-		assertTrue(cl.doSub(1, 1) == 90); //changes the code to fail the test cases
+		assertTrue(cl.doSub(1, 1) == 0); //changes the code to fail the test cases
 	}
 	
 //	@Test
