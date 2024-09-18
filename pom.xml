@@ -38,8 +38,8 @@
 		<sonar.projectKey>CI_1</sonar.projectKey>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>password</sonar.password>
-	<!--<sonar.qualitygate.wait>true</sonar.qualitygate.wait>
-		<sonar.qualitygate.failOnSonarQubeExitCode>true</sonar.qualitygate.failOnSonarQubeExitCode> -->	
+	        <sonar.qualitygate.wait>true</sonar.qualitygate.wait>
+		<sonar.qualitygate.failOnSonarQubeExitCode>true</sonar.qualitygate.failOnSonarQubeExitCode>
 
 	</properties>
 
